@@ -27,4 +27,8 @@ public class MethodReverseInteger {
         return rev;
     }
 
+    public static void main(String[] args) {
+        System.out.println(reverseInt(1234));
+        System.out.println(reverseInt(872387643));
+    }
 }
