@@ -7,4 +7,6 @@ public class Practice {
     // some text
 
     // practice
+
+    // adding text
 }
