@@ -1,4 +1,4 @@
-package Divide;
+package Week1Assignments;
 
 public class Divide {
 
