@@ -1,5 +1,5 @@
 
-package Week1Assignments;
+package util.Week1Assignments;
 
 public class OddOrEven {
 
