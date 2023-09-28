@@ -1,4 +1,4 @@
-package oddOrEven;
+package Divide;
 
 public class Divide {
 
