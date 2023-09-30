@@ -1,6 +1,6 @@
-package Week1Assignments.Week1_CodingSolutions_Yaroslav;
+package week1_assignments.yaroslav;
 
-public class DividedWithoutOperator {
+public class DividedWithoutOperator_Yaroslav {
     public static void main(String[] args) {
 
         /*
