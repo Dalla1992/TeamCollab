@@ -2,6 +2,9 @@ package week3_assignments.yaroslav;
 
 public class SwapTwoStrings_Yaroslav {
     public static void main(String[] args) {
+
+        //TODO create a void method that will accept 2 String params. Swap variable values without creating third variable.
+
         swap("apple", "jam");
         swap("", "jam");
         swap("", "");
