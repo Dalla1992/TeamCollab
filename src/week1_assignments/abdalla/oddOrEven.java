@@ -1,4 +1,4 @@
-package Week1Assignments;
+package week1_assignments.abdalla;
 
 import java.util.Scanner;
 

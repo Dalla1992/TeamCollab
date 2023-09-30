@@ -1,3 +1,0 @@
-Please create a package called week2 under your src folder in the project and then submit your answers for the java questions for week2 in your own branch then commit it and push it .
-Don't forget to make a pull request
-thank you
