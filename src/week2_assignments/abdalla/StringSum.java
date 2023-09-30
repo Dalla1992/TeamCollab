@@ -1,4 +1,4 @@
-package week2;
+package week2_assignments.abdalla;
 
 public class StringSum {
 

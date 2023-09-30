@@ -1,4 +1,4 @@
-package Week1Assignments;
+package week1_assignments.abdalla;
 
 public class taskFINRA {
     public static void main(String[] args) {
