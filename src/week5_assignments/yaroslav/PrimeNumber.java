@@ -1,4 +1,4 @@
-package week5_assignments;
+package week5_assignments.yaroslav;
 
 public class PrimeNumber {
     public static void main(String[] args) {
