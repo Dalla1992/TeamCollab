@@ -3,6 +3,8 @@ package week5_assignments;
 public class ReverseNumber {
     public static void main(String[] args) {
 
+        //TODO Write a method that can reverse negative number and return it as int
+
         System.out.println(reverseNum(-12345));                 // -54321
         System.out.println(reverseAndPositive(-12345));    // 54321
     }
