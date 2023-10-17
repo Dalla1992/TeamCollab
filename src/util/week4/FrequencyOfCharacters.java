@@ -1,4 +1,4 @@
-package util.week6;
+package util.week4;
 
 public class FrequencyOfCharacters {
 
