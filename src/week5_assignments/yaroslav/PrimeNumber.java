@@ -13,10 +13,7 @@ public class PrimeNumber {
 
     public static void prime(int num) {
        String result = "";
-       for (int i = 2; i <= 7; i++) {
-           if (i == num) {
-               continue;
-           }
+       for (int i = 2; i < num; i++) {
            if (num % i == 0) {
                result = num + " is not";
                break;
