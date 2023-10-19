@@ -16,11 +16,7 @@ public class RemoveDuplicates {
     }
     public static String removeDup(String str) {
         Set<String> noDupes = new LinkedHashSet<>(Arrays.asList(str.split("")));
-        String result = "";
-        for (String each : noDupes) {
-            result += each;
-        }
-        return result;
+        return String.join("", noDupes);
     }
 
     public static String removeDupes(String str) {
