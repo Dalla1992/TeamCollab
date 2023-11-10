@@ -68,7 +68,6 @@ requirements:
         }
         //------------------------------------------------------------------------------------
 
-
         for (char c : password.toCharArray()) {
             if (!Character.isDigit(c) && !Character.isUpperCase(c) && !Character.isLowerCase(c)) {
                 specialInt++;
