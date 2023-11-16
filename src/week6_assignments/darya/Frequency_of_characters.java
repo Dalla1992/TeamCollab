@@ -10,7 +10,7 @@ public class Frequency_of_characters {
     }
 
     public static void charFrequency(String str) {  //AABBCDDA
-        //012345678
+                                                    //012345678
         String x = "";
         int c;
         for (int i = 0; i < str.length(); i++) {
