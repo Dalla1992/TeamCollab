@@ -18,7 +18,7 @@ public class SumOfZero {
             correct answers).
          */
 
-        int randomNumber = new Random().nextInt(8) + 1 ;
+        int randomNumber = new Random().nextInt(98) + 1 ;
         System.out.println(sumZero(randomNumber));   //result is always randomly generated
 
 
@@ -27,9 +27,9 @@ public class SumOfZero {
 
     public static String sumZero(int number) {
         //creating array and adding possible numbers from -9 to 9
-        int[] arr = new int[19];
+        int[] arr = new int[199];
         int index = 0;
-        for (int i = -9; i < 10; i++) {
+        for (int i = -99; i < 100; i++) {
             arr[index] = i;
             index++;
         }
